@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🤝 About Me
 Hello, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**王家伟**</span>), born in 2001. Currently, I am a Master's student in Computer Technology at **Hubei University (HUBU) (2023–2026)**, under the supervision of <a href="https://scholar.google.com/citations?user=8y4G8BsAAAAJ&hl=en">Assistant Prof. Miao Zhang</a> and <a href="https://scholar.google.com/citations?user=V0-_mPkAAAAJ&hl=en">Prof. Kui Xiao</a>. Before that, I was pursuing my Bachelor's degree in Data Science and Big Data Technology at **Hubei University** from **2019 to 2023**. **My research interests**: include but are not limited to **Educational Data Mining**, **Knowledge Tracing**, **Recommender Systems**, and **Graph Neural Networks**.
 
-🤝 If you are interested in my research or have any questions, suggestions, or collaboration ideas, please feel free to contact me at Email: [wangjw@stu.hubu.edu.cn](mailto:wangjw@stu.hubu.edu.cn).
+If you are interested in my research or have any questions, suggestions, or collaboration ideas, please feel free to contact me at Email: [wangjw@stu.hubu.edu.cn](mailto:wangjw@stu.hubu.edu.cn).
 
 
 # 🔥 News
