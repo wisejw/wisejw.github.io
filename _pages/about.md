@@ -29,41 +29,55 @@ Hello, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning](https://2025.ijcai.org/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Miao Zhang, **Jiawei Wang**, Jinying Han, Kui Xiao*, Zhifei Li, Yan Zhang, Hao Chen, Shihui Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Corresponding Author.
+- Student's first author.
+
+_International Joint Conference on Artificial Intelligence (IJCAI), 2025._
+
+  [**[PDF]**](https://2025.ijcai.org/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**[Code]**](https://github.com/wisejw/DGCPL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/TBD2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Enhancing Weak Supervision for Concept Prerequisite Relation Learning](https://ieeexplore.ieee.org/document/10930636)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Miao Zhang, **Jiawei Wang**, Kui Xiao*, Zhifang Huang*, Zhifei Li, Yan Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Corresponding Author.
+- Student's first author.
+
+_IEEE Transactions on Big Data (TBD), 2025._
+
+  [**[PDF]**](https://ieeexplore.ieee.org/document/10930636) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral Paper</div><img src='images/AAAI025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization](https://doi.org/10.1609/aaai.v39i2.32156)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Miao Zhang, **Jiawei Wang**, Kui Xiao*, Shihui Wang, Yan Zhang*, Hao Chen, Zhifei Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Corresponding Author.
+- Student's first author.
+
+_AAAI Conference on Artificial Intelligence, 2025._
+
+  [**[PDF]**](https://doi.org/10.1609/aaai.v39i2.32156) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**[Code]**](https://github.com/wisejw/GKROM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
