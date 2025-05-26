@@ -41,7 +41,7 @@ Miao Zhang, **Jiawei Wang**, Jinying Han, Kui Xiao&ast; , Zhifei Li, Yan Zhang, 
 
 _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 
-  [**[PDF]**](https://2025.ijcai.org/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+  [**[PDF]**](https://2025.ijcai.org/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   [**[Code]**](https://github.com/wisejw/DGCPL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
@@ -59,7 +59,7 @@ Miao Zhang, **Jiawei Wang**, Kui Xiao&ast; , Zhifang Huang&ast; , Zhifei Li, Yan
 
 _IEEE Transactions on Big Data (TBD), 2025._
 
-  [**[PDF]**](https://ieeexplore.ieee.org/document/10930636) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+  [**[PDF]**](https://ieeexplore.ieee.org/document/10930636) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -76,7 +76,7 @@ Miao Zhang, **Jiawei Wang**, Kui Xiao&ast; , Shihui Wang, Yan Zhang&ast; , Hao C
 
 _AAAI Conference on Artificial Intelligence, 2025._
 
-  [**[PDF]**](https://doi.org/10.1609/aaai.v39i2.32156) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>  
+  [**[PDF]**](https://doi.org/10.1609/aaai.v39i2.32156) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   [**[Code]**](https://github.com/wisejw/GKROM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
