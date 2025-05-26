@@ -36,7 +36,7 @@ Hello, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**
 
 Miao Zhang, <strong>Jiawei Wang</strong>, Jinying Han, Kui Xiao*, Zhifei Li, Yan Zhang, Hao Chen, Shihui Wang
 
--  * indicates Corresponding Author.
+- \* indicates Corresponding Author.
 - **Student's first author.**
 
 _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
@@ -54,7 +54,7 @@ _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 
 Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao* , Zhifang Huang* , Zhifei Li, Yan Zhang
 
-- * indicates Corresponding Author.
+- \* indicates Corresponding Author.
 - **Student's first author.**
 
 _IEEE Transactions on Big Data (TBD), 2025._
@@ -71,7 +71,7 @@ _IEEE Transactions on Big Data (TBD), 2025._
 
 Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao*, Shihui Wang, Yan Zhang*, Hao Chen, Zhifei Li
 
-- * indicates Corresponding Author.
+- \* indicates Corresponding Author.
 - **Student's first author.**
 
 _AAAI Conference on Artificial Intelligence, 2025._
