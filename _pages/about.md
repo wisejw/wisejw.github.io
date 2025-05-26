@@ -29,7 +29,7 @@ Hello, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**
 
 # 📝 Publications [<a href="https://scholar.google.com/citations?user=zRjtqFcAAAAJ&amp;hl=en">Google Scholar</a>]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning**](https://2025.ijcai.org/)
@@ -47,7 +47,7 @@ _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/TBD2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/TBD2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Enhancing Weak Supervision for Concept Prerequisite Relation Learning**](https://ieeexplore.ieee.org/document/10930636)
@@ -64,7 +64,7 @@ _IEEE Transactions on Big Data (TBD), 2025._
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral Paper</div><img src='images/AAAI025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 Oral Paper</div><img src='images/AAAI2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization**](https://doi.org/10.1609/aaai.v39i2.32156)
