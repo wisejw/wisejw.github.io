@@ -28,7 +28,8 @@ If you are interested in my research or have any questions, suggestions, or coll
 - **[Mar. 2025]** &nbsp;🎉🎉 One paper is accepted by <a href="https://ieeesystemscouncil.org/publication/ieee-transactions-big-data-t-data"><strong>IEEE Transactions on Big Data</strong></a> (CCF-C, SCI Q2, IF=7.5).
 - **[Dec. 2024]** &nbsp;🎉🎉 One paper is accepted by <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a> (CCF-A).
 
-# 📝 Publications [<a href="https://scholar.google.com/citations?user=zRjtqFcAAAAJ&amp;hl=en">Google Scholar</a>]
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,13 +88,17 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 - *2023* Honor Graduate in HUBU.
 - *2020, 2021* Merit Student Scholarship in HUBU. 
 
+
 # 📖 Educations
 - *2023.09 - 2026.06 (<strong>now</strong>)*, Hubei University, Computer Technology, M.S. 
 - *2019.09 - 2023.06*, Hubei University, Data Science and Big Data Technology, B.S. 
+
 
 # 💬 Services
 - Reviewers: <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 - Memberships: IJCAI Member, WUHAN ASSOCIATION FOR SOFTWARE ENGINEERING (WHASE) Student Member.
 
+
 # 💻 Internships
 - <strong>I’m looking for a research internship.</strong>
+
