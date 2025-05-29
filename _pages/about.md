@@ -36,9 +36,9 @@ If you are interested in my research or have any questions, suggestions, or coll
 
 [**DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning**](https://2025.ijcai.org/)
 
-Miao Zhang, <strong>Jiawei Wang</strong>, Jinying Han, Kui Xiao✉️, Zhifei Li, Yan Zhang, Hao Chen, Shihui Wang
+Miao Zhang, <strong>Jiawei Wang</strong>, Jinying Han, Kui Xiao<sup>✉</sup>, Zhifei Li, Yan Zhang, Hao Chen, Shihui Wang
 
-- ✉️ indicates Corresponding Author.
+- ✉ indicates Corresponding Author.
 - **Student's First Author.**
 
 _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
@@ -54,9 +54,9 @@ _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 
 [**Enhancing Weak Supervision for Concept Prerequisite Relation Learning**](https://ieeexplore.ieee.org/document/10930636)
 
-Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao✉️, Zhifang Huang✉️, Zhifei Li, Yan Zhang
+Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Zhifang Huang<sup>✉</sup>, Zhifei Li, Yan Zhang
 
-- ✉️ indicates Corresponding Author.
+- ✉ indicates Corresponding Author.
 - **Student's First Author.**
 
 _IEEE Transactions on Big Data (TBD), 2025._
@@ -71,9 +71,9 @@ _IEEE Transactions on Big Data (TBD), 2025._
 
 [**Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization**](https://doi.org/10.1609/aaai.v39i2.32156)
 
-Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao✉️, Shihui Wang, Yan Zhang✉️, Hao Chen, Zhifei Li
+Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Shihui Wang, Yan Zhang<sup>✉</sup>, Hao Chen, Zhifei Li
 
-- ✉️ indicates Corresponding Author.
+- ✉ indicates Corresponding Author.
 - **Student's First Author.**
 
 _AAAI Conference on Artificial Intelligence (AAAI), 2025._
