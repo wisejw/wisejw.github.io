@@ -96,7 +96,7 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 # 💬 Services
 <strong>Reviewers:</strong>
-- As an external reviewer, I have reviewed for _IP&M_ and _IJCNN_.
+- As an external reviewer, I have reviewed for IP&M and IJCNN.
 - <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 
 <strong>Memberships:</strong>
