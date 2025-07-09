@@ -57,7 +57,7 @@ _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Zhifang Huang<sup>✉</sup>, Zhifei Li, Yan Zhang
 
 - ✉ indicates Corresponding Author.
-- **Student's First Author.**
+- **Student first-author (advisor listed first, myself second).**
 
 _IEEE Transactions on Big Data (TBD), 2025._
 
@@ -74,7 +74,7 @@ _IEEE Transactions on Big Data (TBD), 2025._
 Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Shihui Wang, Yan Zhang<sup>✉</sup>, Hao Chen, Zhifei Li
 
 - ✉ indicates Corresponding Author.
-- **Student's First Author.**
+- **Student first-author (advisor listed first, myself second).**
 
 _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
@@ -96,7 +96,7 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 # 💬 Services
 <strong>Reviewers:</strong>
-- As an external reviewer, I have reviewed for IP&M and IJCNN.
+- As an external reviewer, I have reviewed for _IP&M_ and _IJCNN_.
 - <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 
 <strong>Memberships:</strong>
