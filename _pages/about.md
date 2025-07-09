@@ -39,7 +39,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 Miao Zhang, <strong>Jiawei Wang</strong>, Jinying Han, Kui Xiao<sup>✉</sup>, Zhifei Li, Yan Zhang, Hao Chen, Shihui Wang
 
 - ✉ indicates Corresponding Author.
-- **Student first-author (advisor listed first, myself second).**
+- **Student first-author** (advisor listed first, myself second).
 
 _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 
@@ -57,7 +57,7 @@ _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Zhifang Huang<sup>✉</sup>, Zhifei Li, Yan Zhang
 
 - ✉ indicates Corresponding Author.
-- **Student first-author (advisor listed first, myself second).**
+- **Student first-author** (advisor listed first, myself second).
 
 _IEEE Transactions on Big Data (TBD), 2025._
 
@@ -74,7 +74,7 @@ _IEEE Transactions on Big Data (TBD), 2025._
 Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Shihui Wang, Yan Zhang<sup>✉</sup>, Hao Chen, Zhifei Li
 
 - ✉ indicates Corresponding Author.
-- **Student first-author (advisor listed first, myself second).**
+- **Student first-author** (advisor listed first, myself second).
 
 _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
