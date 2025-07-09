@@ -95,8 +95,13 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 
 # 💬 Services
-- Reviewers: <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
-- Memberships: IJCAI Member, WUHAN ASSOCIATION FOR SOFTWARE ENGINEERING (WHASE) Student Member.
+<strong>Reviewers:</strong>
+- As an external reviewer, I have reviewed for _IP&M_ and _IJCNN_.
+- <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
+
+<strong>Memberships:</strong>
+- _IJCAI_ Member.
+- _WUHAN ASSOCIATION FOR SOFTWARE ENGINEERING (WHASE)_ Student Member.
 
 
 # 💻 Internships
