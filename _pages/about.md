@@ -86,12 +86,12 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 # 🏅 Honors and Awards
 - *2023* Honor Graduate in HUBU.
-- *2020, 2021* Merit Student Scholarship in HUBU. 
+- *2020, 2021* Merit Student Scholarship in HUBU.
 
 
 # 📖 Educations
-- *2023.09 - 2026.06 (<strong>now</strong>)*, Hubei University, Computer Technology, M.S. 
-- *2019.09 - 2023.06*, Hubei University, Data Science and Big Data Technology, B.S. 
+- *2023.09 - 2026.06 (<strong>now</strong>)*, Hubei University, Computer Technology, M.S.
+- *2019.09 - 2023.06*, Hubei University, Data Science and Big Data Technology, B.S.
 
 
 # 💬 Services
