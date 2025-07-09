@@ -39,7 +39,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 Miao Zhang, <strong>Jiawei Wang</strong>, Jinying Han, Kui Xiao<sup>✉</sup>, Zhifei Li, Yan Zhang, Hao Chen, Shihui Wang
 
 - ✉ indicates Corresponding Author.
-- **Student's First Author.**
+- **Student first-author (advisor listed first, myself second).**
 
 _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 
