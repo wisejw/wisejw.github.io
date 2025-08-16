@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤝 About Me
-Hi, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**王家伟**</span>), born in 2001. Currently, I am a Master's student in Computer Technology at **Hubei University (HUBU) (2023–2026)**, under the supervision of <a href="https://scholar.google.com/citations?user=8y4G8BsAAAAJ&hl=en">Assistant Prof. Miao Zhang</a> and <a href="https://scholar.google.com/citations?user=V0-_mPkAAAAJ&hl=en">Prof. Kui Xiao</a>. Before that, I was pursuing my Bachelor's degree in Data Science and Big Data Technology at **Hubei University** from **2019 to 2023**. **My research interests**: include but are not limited to **Educational Data Mining**, **Knowledge Tracing**, **Recommender Systems**, and **Graph Neural Networks**.
+Hi, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**王家伟**</span>), born in 2001. Currently, I am a Master's student in Computer Technology at **Hubei University (HUBU) (2023–2026)**, under the supervision of <a href="https://scholar.google.com/citations?user=8y4G8BsAAAAJ&hl=en">Assistant Prof. Miao Zhang</a> and <a href="https://scholar.google.com/citations?user=V0-_mPkAAAAJ&hl=en">Prof. Kui Xiao</a>. Before that, I was pursuing my Bachelor's degree in Data Science and Big Data Technology at **Hubei University** from **2019 to 2023**. **My research interests**: include but are not limited to **Educational Data Mining**, **Knowledge Tracing**, **Cognitive diagnosis**, **Recommender Systems**, and **Graph Neural Networks**.
 
 If you are interested in my research or have any questions, suggestions, or collaboration ideas, please feel free to contact me at Email: [wangjw@stu.hubu.edu.cn](mailto:wangjw@stu.hubu.edu.cn).
 
@@ -96,7 +96,8 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 # 💬 Services
 <strong>Reviewers:</strong>
-- As an external reviewer, I have reviewed for _IP&M_ and _IJCNN_.
+- Serving as a PC or reviewer for conferences/journals: _AAAI_, _CAAI Transactions on Intelligence Technology_.
+- As an external reviewer, I have reviewed for _TKDE_, _IP&M_ and _IJCNN_.
 - <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 
 <strong>Memberships:</strong>
