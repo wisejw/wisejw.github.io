@@ -97,7 +97,7 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 # 💬 Services
 <strong>Reviewers:</strong>
 - Serving as a PC or reviewer for conferences/journals: _AAAI_, _CAAI Transactions on Intelligence Technology_.
-- As an external reviewer, I have reviewed for _TKDE_, _IP&M_ and _IJCNN_.
+- As an external reviewer, I have reviewed for _TKDE_, _TMM_, _IP&M_ and _IJCNN_.
 - <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 
 <strong>Memberships:</strong>
