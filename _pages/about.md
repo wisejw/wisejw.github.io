@@ -25,7 +25,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 
 # 🔥 News
 - **[Apr. 2025]** &nbsp;📢📢 One paper is accepted by <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a> (CCF-A).
-- **[Mar. 2025]** &nbsp;🎉🎉 One paper is accepted by <a href="https://ieeesystemscouncil.org/publication/ieee-transactions-big-data-t-data"><strong>IEEE Transactions on Big Data</strong></a> (CCF-C, CAS Q2, IF=7.5).
+- **[Mar. 2025]** &nbsp;🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317/"><strong>IEEE Transactions on Big Data</strong></a> (CCF-C, CAS Q2, IF=7.5).
 - **[Dec. 2024]** &nbsp;🎉🎉 One paper is accepted by <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a> (CCF-A).
 
 
@@ -34,7 +34,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning**](https://2025.ijcai.org/)
+[**DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning**](https://doi.org/10.24963/ijcai.2025/930)
 
 Miao Zhang, <strong>Jiawei Wang</strong>, Jinying Han, Kui Xiao<sup>✉</sup>, Zhifei Li, Yan Zhang, Hao Chen, Shihui Wang
 
@@ -52,7 +52,7 @@ _International Joint Conference on Artificial Intelligence (IJCAI), 2025._
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD 2025</div><img src='images/TBD2025.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Enhancing Weak Supervision for Concept Prerequisite Relation Learning**](https://ieeexplore.ieee.org/document/10930636)
+[**Enhancing Weak Supervision for Concept Prerequisite Relation Learning**](https://doi.org/10.1109/TBDATA.2025.3552330)
 
 Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Zhifang Huang<sup>✉</sup>, Zhifei Li, Yan Zhang
 
@@ -62,6 +62,7 @@ Miao Zhang, <strong>Jiawei Wang</strong>, Kui Xiao<sup>✉</sup>, Zhifang Huang<
 _IEEE Transactions on Big Data (TBD), 2025._
 
   [**[PDF]**](https://ieeexplore.ieee.org/document/10930636) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**[Code]**](https://github.com/wisejw/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
