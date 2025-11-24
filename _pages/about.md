@@ -86,6 +86,7 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 
 # 🏅 Honors and Awards
+- *2024* National Scholarship (TOP 1st in the school).
 - *2023* Honor Graduate in HUBU.
 - *2020, 2021* Merit Student Scholarship in HUBU.
 
@@ -102,8 +103,8 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 - <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 
 <strong>Memberships:</strong>
-- _IJCAI_ Member.
 - _WUHAN ASSOCIATION FOR SOFTWARE ENGINEERING (WHASE)_ Student Member.
+- _IJCAI_ Member.
 
 
 # 💻 Internships
