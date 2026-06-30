@@ -18,15 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤝 About Me
-Hi, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**王家伟**</span>), born in 2001. Currently, I am a Master's student in Computer Technology at **Hubei University (HUBU) (2023–2026)**, under the supervision of <a href="https://scholar.google.com/citations?user=8y4G8BsAAAAJ&hl=en">Associate Prof. Miao Zhang</a> and <a href="https://scholar.google.com/citations?user=V0-_mPkAAAAJ&hl=en">Prof. Kui Xiao</a>. Before that, I was pursuing my Bachelor's degree in Data Science and Big Data Technology at **Hubei University** from **2019 to 2023**. **My research interests**: include but are not limited to **Educational Data Mining**, **Knowledge Tracing**, **Cognitive diagnosis**, **Recommender Systems**, and **Graph Neural Networks**.
+Hi, I am Jiawei Wang (<span style="font-family: 'Ma Shan Zheng', cursive;">**王家伟**</span>), born in 2001. Currently, I am a **first-year Ph.D. student** in Computer Science and Technology at **Sun Yat-sen University (SYSU)** (2026–2030 expected), under the supervision of <a href="https://ssse.sysu.edu.cn/teacher/236">Prof. Baoxin Xiu</a>. Before that, I was a Master's student in Computer Technology at **Hubei University (HUBU)** (2023–2026) under the supervision of Associate <a href="https://scholar.google.com/citations?user=8y4G8BsAAAAJ&hl=en">Associate Prof. Miao Zhang</a> and <a href="https://scholar.google.com/citations?user=V0-_mPkAAAAJ&hl=en">Prof. Kui Xiao</a>, and I also received my Bachelor's degree in Data Science and Big Data Technology at **Hubei University (HUBU)** (2019–2023). **My research interests**: include but are not limited to **Educational Data Mining**, **Knowledge Tracing**, **Cognitive diagnosis**, **Recommender Systems**, and **Graph Neural Networks**.
 
 If you are interested in my research or have any questions, suggestions, or collaboration ideas, please feel free to contact me at Email: [wangjw@stu.hubu.edu.cn](mailto:wangjw@stu.hubu.edu.cn).
 
 
 # 🔥 News
-- **[Apr. 2025]** &nbsp;📢📢 One paper is accepted by <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a> (CCF-A).
-- **[Mar. 2025]** &nbsp;🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317/"><strong>IEEE Transactions on Big Data</strong></a> (CCF-C, CAS Q2, IF=7.5).
-- **[Dec. 2024]** &nbsp;🎉🎉 One paper is accepted by <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a> (CCF-A).
+- **[May. 2026]** &nbsp;📢📢 One paper is accepted by <a href="https://www.sciencedirect.com/journal/information-processing-and-management/"><strong>Information Processing & Management(IPM)</strong></a> (CCF-B, CAS Q1, IF=8.1) (Major contributor).
+- **[Apr. 2026]** &nbsp;🎉🎉 One paper is accepted by <a href="https://journals.sagepub.com/home/web/"><strong>Web Intelligence</strong></a> (CCF-C, CAS Q4) (Major contributor).
+- **[Mar. 2026]** &nbsp;🎉🎉 One paper is accepted by <a href="http://xwxt.sict.ac.cn/EN/home/"><strong>Journal of Chinese Computer Systems(小型微型计算机系统)</strong></a> (CCF-Q2) (Major contributor).
+- **[Apr. 2025]** &nbsp;🎉🎉 One paper is accepted by <a href="https://2025.ijcai.org/"><strong>IJCAI 2025</strong></a> (CCF-A) (Student first-author).
+- **[Mar. 2025]** &nbsp;🎉🎉 One paper is accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317/"><strong>IEEE Transactions on Big Data(TBD)</strong></a> (CCF-C, CAS Q2, IF=7.5) (Student first-author).
+- **[Dec. 2024]** &nbsp;🎉🎉 One paper is accepted by <a href="https://aaai.org/conference/aaai/aaai-25/"><strong>AAAI 2025</strong></a> (CCF-A) (Student first-author).
 
 
 # 📝 Publications
@@ -86,10 +89,10 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 
 # 🏅 Honors and Awards
-- *2026* Outstanding Graduate Student Award in HUBU.
-- *2026* Outstanding Master's Thesis Award in HUBU.
-- *2025* WUHAN ASSOCIATION FOR SOFTWARE ENGINEERING (WHASE) Outstanding Graduate Student Award.
-- *2025* National Scholarship, Ministry of Education of the PRC (Top 1%, Ranked 1/159).
+- *2026* **Outstanding Graduate Student Award** in HUBU.
+- *2026* **Outstanding Master's Thesis Award** in HUBU.
+- *2025* WUHAN ASSOCIATION FOR SOFTWARE ENGINEERING (WHASE) **Outstanding Master's Student Award**.
+- *2025* **National Scholarship**, Ministry of Education of the PRC (Top 1%, Ranked 1/159).
 - *2023* Honor Graduate Student Award in HUBU.
 - *2020* Second Prize, CCCC Mobile App Innovation Contest
 - *2020, 2021* Merit Student Scholarship in HUBU.
