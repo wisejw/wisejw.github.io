@@ -142,7 +142,7 @@ _Journal of Chinese Computer Systems(小型微型计算机系统), 2026._
 
 # 💬 Services
 <strong>Reviewers:</strong>
-- Serving as a PC or reviewer for conferences/journals: _AAAI 2025-2027_, _IJCAI 2025-2026_, _CAAI Transactions on Intelligence Technology(CAAI TRIT)_.
+- Serving as a PC or reviewer for conferences/journals: _AAAI 2025-2027_, _IJCAI 2025-2026_, _CAAI TRIT_.
 - As an external reviewer, I have reviewed for _TKDE_, _TMM_, _IP&M_ and _IJCNN_.
 - <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 
