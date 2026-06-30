@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiawei Wang"
-description              : "Master’s student"
+description              : "Ph.D. Student in Computer Science at SYSU"
 repository               : "wisejw/wisejw.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiawei Wang"
   avatar           : "images/Personal-photo.png"
-  bio              : "Hubei University"
-  location         : "Wuhan, China"
+  bio              : "Sun Yat-sen University"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zRjtqFcAAAAJ"
