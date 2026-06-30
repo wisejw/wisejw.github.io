@@ -88,6 +88,20 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 </div>
 
 
+<div class='paper-box-text' markdown="1">
+  
+[**Noise-robust item modeling and dynamic multiview contrastive learning for multimodal recommendation**](https://doi.org/10.1016/j.ipm.2026.104896)
+
+ZiHao Gong, <strong>Jiawei Wang</strong>, Po Hu, Ming Dong, YaMin Li, ZhiFei Li, Yan Zhang, Miao Zhang<sup>✉</sup>,
+
+_Information Processing & Management (IPM), 2026._
+
+  [**[PDF]**](https://doi.org/10.1016/j.ipm.2026.104896) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**[Code]**](https://github.com/50hehe/NRDMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  
+</div>
+
+
 # 🏅 Honors and Awards
 - *2026* **Outstanding Graduate Student Award** in HUBU.
 - *2026* **Outstanding Master's Thesis Award** in HUBU.
