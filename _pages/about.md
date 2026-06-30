@@ -88,8 +88,7 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 </div>
 
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+<div>
   
 [**Noise-robust item modeling and dynamic multiview contrastive learning for multimodal recommendation**](https://doi.org/10.1016/j.ipm.2026.104896),
 
@@ -100,7 +99,6 @@ _Information Processing & Management (IPM), 2026._
   [**[PDF]**](https://doi.org/10.1016/j.ipm.2026.104896) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   [**[Code]**](https://github.com/50hehe/NRDMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
-</div>
 </div>
 
 
