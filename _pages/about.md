@@ -90,7 +90,7 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 <div class='paper-box-text' markdown="1">
   
-[**Noise-robust item modeling and dynamic multiview contrastive learning for multimodal recommendation**](https://doi.org/10.1016/j.ipm.2026.104896)
+[**Noise-robust item modeling and dynamic multiview contrastive learning for multimodal recommendation**](https://doi.org/10.1016/j.ipm.2026.104896),
 
 ZiHao Gong, <strong>Jiawei Wang</strong>, Po Hu, Ming Dong, YaMin Li, ZhiFei Li, Yan Zhang, Miao Zhang<sup>✉</sup>,
 
@@ -98,6 +98,28 @@ _Information Processing & Management (IPM), 2026._
 
   [**[PDF]**](https://doi.org/10.1016/j.ipm.2026.104896) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   [**[Code]**](https://github.com/50hehe/NRDMC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+  
+[**DKPKT: Dynamic Knowledge Perception for Temporal Knowledge Tracing**](https://doi.org/10.1177/24056456261449419),
+
+Xiaolian Zhu, Wenjie Chen, Kui Xiao<sup>✉</sup>, Miao Zhang<sup>✉</sup>, <strong>Jiawei Wang</strong>, Zhifang Huang
+
+_Web Intelligence (WI), 2026._
+  
+</div>
+
+
+<div class='paper-box-text' markdown="1">
+  
+[**Dual Relational Hypergraphs with Fused Representation Alignment for Cognitive Diagnosis**](https://link.cnki.net/urlid/21.1106.TP.20260319.1742.007),
+
+Xiaolian Zhu, Miao Zhang, Kui Xiao<sup>✉</sup>, Hao Zhou, <strong>Jiawei Wang</strong>,
+
+_Journal of Chinese Computer Systems(小型微型计算机系统), 2026._
   
 </div>
 
