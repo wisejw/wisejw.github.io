@@ -31,7 +31,7 @@ If you are interested in my research or have any questions, suggestions, or coll
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/IJCAI2025.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025 Oral Paper</div><img src='images/IJCAI2025.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DGCPL: Dual Graph Distillation for Concept Prerequisite Relation Learning**](https://doi.org/10.24963/ijcai.2025/930)
@@ -86,21 +86,24 @@ _AAAI Conference on Artificial Intelligence (AAAI), 2025._
 
 
 # 🏅 Honors and Awards
+- *2026* Outstanding Graduate Student Award in HUBU.
+- *2026* Outstanding Master's Thesis Award in HUBU.
 - *2025* WUHAN ASSOCIATION FOR SOFTWARE ENGINEERING (WHASE) Outstanding Graduate Student Award.
-- *2025* National Scholarship (TOP 1st in the school).
-- *2023* Honor Graduate in HUBU.
+- *2025* National Scholarship, Ministry of Education of the PRC (Top 1%, Ranked 1/159).
+- *2023* Honor Graduate Student Award in HUBU.
 - *2020* Second Prize, CCCC Mobile App Innovation Contest
 - *2020, 2021* Merit Student Scholarship in HUBU.
 
 
 # 📖 Educations
-- *2023.09 - 2026.06 (<strong>now</strong>)*, Hubei University, Computer Technology, M.S.
-- *2019.09 - 2023.06*, Hubei University, Data Science and Big Data Technology, B.S.
+- *2026.09 - 2030.06 (<strong>expected</strong>)*, <a href="https://sysu.edu.cn/">Sun Yat-sen University</a>, <a href="https://ssse.sysu.edu.cn/">School of Systems Science and Engineering</a>, Computer Science and Technology, Ph.D.
+- *2023.09 - 2026.06*, <a href="https://hubu.edu.cn/">Hubei University</a>, <a href="https://cs.hubu.edu.cn/">School of Computer Science</a>, Computer Technology, M.S.
+- *2019.09 - 2023.06*, <a href="https://hubu.edu.cn/">Hubei University</a>, <a href="https://cs.hubu.edu.cn/">School of Computer and Information Engineering</a>, Data Science and Big Data Technology, B.S.
 
 
 # 💬 Services
 <strong>Reviewers:</strong>
-- Serving as a PC or reviewer for conferences/journals: _AAAI_, _CAAI Transactions on Intelligence Technology(CAAI TRIT)_.
+- Serving as a PC or reviewer for conferences/journals: _AAAI 2025-2027_, _IJCAI 2025-2026_, _CAAI Transactions on Intelligence Technology(CAAI TRIT)_.
 - As an external reviewer, I have reviewed for _TKDE_, _TMM_, _IP&M_ and _IJCNN_.
 - <strong>I am eager to contribute as a reviewer for conferences or journals.</strong>
 
